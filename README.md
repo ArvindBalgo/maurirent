@@ -1,0 +1,2 @@
+# maurirent
+online accomodation service
